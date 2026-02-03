@@ -1,0 +1,11 @@
+Book_ID,Book_Name,Total_Quantity,Issued_Count
+1,Python Basics,10,7
+2,C Programming,8,3
+3,Data Structures,5,5
+4,DBMS,6,2
+5,Java Programming,12,9
+6,Operating System,7,6
+7,Computer Networks,9,4
+8,Artificial Intelligence,6,5
+9,Machine Learning Basics,10,8
+10,Software Engineering,8,3
